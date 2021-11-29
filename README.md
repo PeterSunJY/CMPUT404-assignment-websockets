@@ -20,13 +20,13 @@ pip install -r requirements.txt
 Contributors / Licensing
 ========================
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, Jiayuan Sun
 
 freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
-Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2011-2021, Sylvain Hellegouarch, Abram Hindle, Jiayuan Sun
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -59,3 +59,35 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Jiayuan Sun
+
+Consultation
+========================
+1. Senyu Li, CCID: senyu
+
+Image Reference
+========================
+1. https://similarpng.com/thumb-up-like-icon-social-media-transparent-png/
+2. https://pixabay.com/vectors/triangles-polygon-color-pink-1430105/
+
+Code Reference
+========================
+1. Abram Hindle, Hazel Victoria Campbell, Gary Dhillon
+
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/broadcaster.py
+
+2. Abram Hindle, Hazel Victoria Campbell, Gary Dhillon
+
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
+
+3. Abram Hindle, Hazel Victoria Campbell, Gary Dhillon
+
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/static/broadcast.html
+
+4. Abram Hindle, Hazel Victoria Campbell, Gary Dhillon
+
+https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/static/chat.html
+
+5. Abram Hindle, Jiayuan Sun
+
+https://github.com/PeterSunJY/CMPUT404-assignment-ajax.git
